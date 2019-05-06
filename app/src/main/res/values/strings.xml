@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Baking Recipes</string>
+    <string name="servings">Servings: </string>
+    <string name="card_title">Kat</string>
+    <string name="card_content">We Do It!</string>
+    <string name="action_share">SHARE</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="description">Description</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
